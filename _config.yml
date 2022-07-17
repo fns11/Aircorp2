@@ -11,6 +11,12 @@ description: New Bnb
 
 twitter_username: jekyll11
 
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+
 #Search: true
 
 #URL VARIABLES
@@ -20,9 +26,3 @@ twitter_username: jekyll11
 #base url:
 
 #source code:
-
-github_username:  jekyll
-
-# Build settings
-markdown: kramdown
-theme: minima
